@@ -7,6 +7,7 @@ import 'package:sample_ecommerce_app/controllers/auth_controller.dart';
 import 'package:sample_ecommerce_app/controllers/product_controller.dart';
 
 import 'package:sample_ecommerce_app/views/login_screen.dart';
+import 'package:sample_ecommerce_app/views/otp_screen.dart';
 import 'package:sample_ecommerce_app/views/product_screen.dart';
 import 'package:sample_ecommerce_app/views/splash_screen.dart';
 
